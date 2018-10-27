@@ -1,0 +1,11 @@
+{
+  "project": "precious",
+  "version": "0.0.1",
+  "author" : "yuuki",
+  "entry_point": "index.scm",
+  "description": "hogehoge",
+  "devDependencies": {
+    "test5": "https://github.com/yuuki234/test5.git"
+  },
+  "bin": "index.scm"
+}
